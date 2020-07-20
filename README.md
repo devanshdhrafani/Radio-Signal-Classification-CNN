@@ -11,6 +11,9 @@ CNN implementation to classify Radio Signals from Outer Space.
 
 ![Model Summary](https://raw.githubusercontent.com/devanshdhrafani/Radio-Signal-Classification-CNN/master/images/model.JPG?token=AKIKRIOMYLQAENJLQD4CTFS7CB3HO)
 
+## Training Progress
+![Training progress](https://raw.githubusercontent.com/devanshdhrafani/Radio-Signal-Classification-CNN/master/images/training.png)
+
 ## Evaluation Metrics:
 
 ![Evaluation Metrics](https://raw.githubusercontent.com/devanshdhrafani/Radio-Signal-Classification-CNN/master/images/metrics.JPG?token=AKIKRINCJELF3PQGZBZYRTC7CB3IW)
